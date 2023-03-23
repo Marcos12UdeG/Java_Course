@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1199aa9c-068e-44af-a61b-34cd12c2e1ea" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/PrimitivosNumericosDePuntosFlotantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/PrimitivoChar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/marcos/section2/PrimitivosFloat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/PrimitivosFloat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrimitivosNumericosDePuntosFlotantes">
+  <component name="RunManager" selected="Application.PrimitivoChar">
+    <configuration name="PrimitivoChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.PrimitivoChar" />
+      <module name="course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.marcos.section2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrimitivosFloat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.marcos.section2.PrimitivosFloat" />
       <module name="course" />
@@ -75,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimitivoChar" />
         <item itemvalue="Application.PrimitivosNumericosDePuntosFlotantes" />
         <item itemvalue="Application.PrimitivosFloat" />
       </list>
@@ -103,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679553989986</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1679555302990</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679555302990</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
