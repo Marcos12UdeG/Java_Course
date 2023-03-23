@@ -14,5 +14,9 @@ public class PrimitivosFloat {
 
         float realFloat = 0.00000000015F;
         System.out.println("realFloat = " + realFloat);
+        
+        float flo = 3.23F;
+
+        System.out.println("Float.sum(real,pi) = " + Float.sum(real,pi));
     }
 }
