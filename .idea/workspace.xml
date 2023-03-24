@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1199aa9c-068e-44af-a61b-34cd12c2e1ea" name="Changes" comment="commit 4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/VentanasDeDialogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/UsoDeScanner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.VentanasDeDialogo">
+  <component name="RunManager" selected="Application.UsoDeScanner">
     <configuration name="CaracteresEspeciales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.marcos.section2.CaracteresEspeciales" />
       <module name="course" />
@@ -59,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimitivoChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.PrimitivoChar" />
+    <configuration name="PrimitivosBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.PrimitivosBoolean" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimitivosBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.PrimitivosBoolean" />
+    <configuration name="UsoDeScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.UsoDeScanner" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UsoDeScanner" />
         <item itemvalue="Application.VentanasDeDialogo" />
         <item itemvalue="Application.sistemasNumericos" />
         <item itemvalue="Application.PrimitivosBoolean" />
         <item itemvalue="Application.CaracteresEspeciales" />
-        <item itemvalue="Application.PrimitivoChar" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679597804694</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit 4">
+      <created>1679600490604</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679600490604</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
