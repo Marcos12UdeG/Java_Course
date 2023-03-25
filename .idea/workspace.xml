@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1199aa9c-068e-44af-a61b-34cd12c2e1ea" name="Changes" comment="commit 5">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/ConversionDeCadenasAPrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/ConversionDe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,9 +45,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ConversionDeCadenasAPrimitivos">
-    <configuration name="ConversionDeCadenasAPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.ConversionDeCadenasAPrimitivos" />
+  <component name="RunManager" selected="Application.ConversionDe">
+    <configuration name="ConversionDe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.ConversionDe" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimitivosBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.PrimitivosBoolean" />
+    <configuration name="ConversionDeCadenasAPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.ConversionDeCadenasAPrimitivos" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConversionDe" />
         <item itemvalue="Application.ConversionDeCadenasAPrimitivos" />
         <item itemvalue="Application.UsoDeScanner" />
         <item itemvalue="Application.VentanasDeDialogo" />
         <item itemvalue="Application.sistemasNumericos" />
-        <item itemvalue="Application.PrimitivosBoolean" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679675218475</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit 5">
+      <created>1679678445539</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679678445539</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
