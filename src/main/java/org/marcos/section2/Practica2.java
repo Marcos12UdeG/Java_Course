@@ -1,5 +1,6 @@
 package org.marcos.section2;
 
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Practica2 {
@@ -34,7 +35,16 @@ public class Practica2 {
                     System.out.println("INGRESAR DIRECCION");
                     direccion = entrada.next();
                     System.out.println("INGRESAR FOLIO");
-                    folio = entrada.nextInt();
+                    try
+                    {
+                        folio = entrada.nextInt();
+                    }catch(InputMismatchException e)
+                    {
+                        System.out.println("INGRESAR UN NUMERO VALIDO");
+                        main(args);
+                        System.exit(0);
+                    }
+
                     break;
                 }
                 case 2:
