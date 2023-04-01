@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1199aa9c-068e-44af-a61b-34cd12c2e1ea" name="Changes" comment="commit video25">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/StringLiteralyNew.java" afterDir="false" />
+    <list default="true" id="1199aa9c-068e-44af-a61b-34cd12c2e1ea" name="Changes" comment="commit video26">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/ConcatenandoStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/marcos/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/marcos/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/marcos/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +46,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringLiteralyNew">
-    <configuration name="ConversionDe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.ConversionDe" />
+  <component name="RunManager" selected="Application.ConcatenandoStrings">
+    <configuration name="ConcatenandoStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.ConcatenandoStrings" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConversionesEntrePrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.ConversionesEntrePrimitivos" />
+    <configuration name="ListaSimplementeLigada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.ListaSimplementeLigada" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConcatenandoStrings" />
+        <item itemvalue="Application.ListaSimplementeLigada" />
         <item itemvalue="Application.StringLiteralyNew" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Practica2" />
-        <item itemvalue="Application.ConversionesEntrePrimitivos" />
-        <item itemvalue="Application.ConversionDe" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680106669104</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="commit video26">
+      <created>1680109199564</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1680109199564</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -251,7 +258,8 @@
     <MESSAGE value="commit Practicanew" />
     <MESSAGE value="commit Practica2" />
     <MESSAGE value="commit video25" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit video25" />
+    <MESSAGE value="commit video26" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit video26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -262,5 +270,10 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/course$ListaSimplementeLigada.ic" NAME="ListaSimplementeLigada Coverage Results" MODIFIED="1680203994203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.marcos.section2.*</FILTER>
+    </SUITE>
   </component>
 </project>
