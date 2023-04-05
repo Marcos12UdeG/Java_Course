@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1199aa9c-068e-44af-a61b-34cd12c2e1ea" name="Changes" comment="commit video27">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/TestRendimiento.java" afterDir="false" />
+    <list default="true" id="1199aa9c-068e-44af-a61b-34cd12c2e1ea" name="Changes" comment="commit video29">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/ValidarString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestRendimiento">
+  <component name="RunManager" selected="Application.ValidarString">
     <configuration name="ConcatenandoStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.marcos.section2.ConcatenandoStrings" />
       <module name="course" />
@@ -85,19 +85,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringLiteralyNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.StringLiteralyNew" />
-      <module name="course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.marcos.section2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestRendimiento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.marcos.section2.TestRendimiento" />
       <module name="course" />
@@ -111,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidarString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.ValidarString" />
+      <module name="course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.marcos.section2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidarString" />
         <item itemvalue="Application.TestRendimiento" />
         <item itemvalue="Application.Inmutabilidad" />
         <item itemvalue="Application.ConcatenandoStrings" />
         <item itemvalue="Application.ListaSimplementeLigada" />
-        <item itemvalue="Application.StringLiteralyNew" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680391365296</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="commit video29">
+      <created>1680657385491</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1680657385491</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -266,7 +273,8 @@
     <MESSAGE value="commit video25" />
     <MESSAGE value="commit video26" />
     <MESSAGE value="commit video27" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit video27" />
+    <MESSAGE value="commit video29" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit video29" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
