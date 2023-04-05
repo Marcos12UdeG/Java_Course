@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1199aa9c-068e-44af-a61b-34cd12c2e1ea" name="Changes" comment="commit video33">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/StirngAArreglo.java" afterDir="false" />
+    <list default="true" id="1199aa9c-068e-44af-a61b-34cd12c2e1ea" name="Changes" comment="commit video34">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/Practica_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/marcos/section2/ExtensionDeUnArchivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/ExtensionDeUnArchivo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StirngAArreglo">
+  <component name="RunManager" selected="Application.Practica_3">
     <configuration name="ExtensionDeUnArchivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.marcos.section2.ExtensionDeUnArchivo" />
       <module name="course" />
@@ -73,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StirngAArreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.StirngAArreglo" />
+    <configuration name="Practica_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.Practica_3" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRendimiento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.TestRendimiento" />
+    <configuration name="StirngAArreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.StirngAArreglo" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practica_3" />
         <item itemvalue="Application.StirngAArreglo" />
         <item itemvalue="Application.ExtensionDeUnArchivo" />
         <item itemvalue="Application.MetodosString" />
         <item itemvalue="Application.ValidarString" />
-        <item itemvalue="Application.TestRendimiento" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680676342810</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="commit video34">
+      <created>1680720205360</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1680720205360</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -306,7 +312,8 @@
     <MESSAGE value="commit video30" />
     <MESSAGE value="commit video31" />
     <MESSAGE value="commit video33" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit video33" />
+    <MESSAGE value="commit video34" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit video34" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
