@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1199aa9c-068e-44af-a61b-34cd12c2e1ea" name="Changes" comment="commit video30">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/MetodosString.java" afterDir="false" />
+    <list default="true" id="1199aa9c-068e-44af-a61b-34cd12c2e1ea" name="Changes" comment="commit video31">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/ExtensionDeUnArchivo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,9 +45,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MetodosString">
-    <configuration name="ConcatenandoStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.ConcatenandoStrings" />
+  <component name="RunManager" selected="Application.ExtensionDeUnArchivo">
+    <configuration name="ExtensionDeUnArchivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.ExtensionDeUnArchivo" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExtensionDeUnArchivo" />
         <item itemvalue="Application.MetodosString" />
         <item itemvalue="Application.ValidarString" />
         <item itemvalue="Application.TestRendimiento" />
         <item itemvalue="Application.Inmutabilidad" />
-        <item itemvalue="Application.ConcatenandoStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680658443428</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="commit video31">
+      <created>1680661060549</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1680661060549</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -282,7 +289,8 @@
     <MESSAGE value="commit video27" />
     <MESSAGE value="commit video29" />
     <MESSAGE value="commit video30" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit video30" />
+    <MESSAGE value="commit video31" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit video31" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
