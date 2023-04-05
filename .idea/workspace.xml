@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1199aa9c-068e-44af-a61b-34cd12c2e1ea" name="Changes" comment="commit video33">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/StirngAArreglo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/marcos/section2/ExtensionDeUnArchivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/ExtensionDeUnArchivo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +46,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExtensionDeUnArchivo">
+  <component name="RunManager" selected="Application.StirngAArreglo">
     <configuration name="ExtensionDeUnArchivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.marcos.section2.ExtensionDeUnArchivo" />
       <module name="course" />
@@ -58,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inmutabilidad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.Inmutabilidad" />
+    <configuration name="MetodosString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.MetodosString" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MetodosString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.MetodosString" />
+    <configuration name="StirngAArreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.StirngAArreglo" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StirngAArreglo" />
         <item itemvalue="Application.ExtensionDeUnArchivo" />
         <item itemvalue="Application.MetodosString" />
         <item itemvalue="Application.ValidarString" />
         <item itemvalue="Application.TestRendimiento" />
-        <item itemvalue="Application.Inmutabilidad" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680676279992</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="commit video33">
+      <created>1680676342810</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1680676342810</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
