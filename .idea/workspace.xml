@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1199aa9c-068e-44af-a61b-34cd12c2e1ea" name="Changes" comment="commit video48">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/Tarea4.java" afterDir="false" />
+    <list default="true" id="1199aa9c-068e-44af-a61b-34cd12c2e1ea" name="Changes" comment="commit Tarea4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/Tarea5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Tarea4">
+  <component name="RunManager" selected="Application.Tarea5">
     <configuration name="InstanceOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.marcos.section2.InstanceOf" />
       <module name="course" />
@@ -84,19 +85,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadorTernario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.OperadorTernario" />
-      <module name="course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.marcos.section2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tarea4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.marcos.section2.Tarea4" />
       <module name="course" />
@@ -110,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tarea5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.Tarea5" />
+      <module name="course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.marcos.section2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tarea5" />
         <item itemvalue="Application.Tarea4" />
         <item itemvalue="Application.InstanceOf" />
         <item itemvalue="Application.NumeroMayor" />
         <item itemvalue="Application.LoginTernario" />
-        <item itemvalue="Application.OperadorTernario" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680907293763</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="commit Tarea4">
+      <created>1680908792547</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1680908792547</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -373,7 +381,8 @@
     <MESSAGE value="commit video46" />
     <MESSAGE value="commit video47" />
     <MESSAGE value="commit video48" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit video48" />
+    <MESSAGE value="commit Tarea4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit Tarea4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
