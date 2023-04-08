@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1199aa9c-068e-44af-a61b-34cd12c2e1ea" name="Changes" comment="commit Tarea5">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/Tarea6.java" afterDir="false" />
+    <list default="true" id="1199aa9c-068e-44af-a61b-34cd12c2e1ea" name="Changes" comment="commit Tarea6">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/SentenciaFor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/marcos/section2/Tarea6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/marcos/section2/Tarea6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Tarea6">
+  <component name="RunManager" selected="Application.SentenciaFor">
     <configuration name="InstanceOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.marcos.section2.InstanceOf" />
       <module name="course" />
@@ -59,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumeroMayor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.NumeroMayor" />
+    <configuration name="SentenciaFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.marcos.section2.SentenciaFor" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SentenciaFor" />
         <item itemvalue="Application.Tarea6" />
         <item itemvalue="Application.Tarea5" />
         <item itemvalue="Application.Tarea4" />
         <item itemvalue="Application.InstanceOf" />
-        <item itemvalue="Application.NumeroMayor" />
       </list>
     </recent_temporary>
   </component>
@@ -361,11 +362,17 @@
       <option name="project" value="LOCAL" />
       <updated>1680909521535</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="commit Tarea6">
+      <created>1680910448436</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1680910448436</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="main" />
     <MESSAGE value="first commit" />
     <MESSAGE value="commit" />
     <MESSAGE value="commit 2" />
@@ -390,7 +397,8 @@
     <MESSAGE value="commit video48" />
     <MESSAGE value="commit Tarea4" />
     <MESSAGE value="commit Tarea5" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit Tarea5" />
+    <MESSAGE value="commit Tarea6" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit Tarea6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
